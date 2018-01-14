@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module referenceFile="sparkfun-displays-7-segment-4digit-youngsun-longpads.fzp" moduleId="125-seven-segment_edd752848691e8bf069be053932fe577_4" fritzingVersion="0.7.2b">
+<module fritzingVersion="0.7.2b" moduleId="125-seven-segment_edd752848691e8bf069be053932fe577_4" referenceFile="sparkfun-displays-7-segment-4digit-youngsun-longpads.fzp">
  <!-- generated from Sparkfun Eagle Library 'SparkFun-Displays' 7-SEGMENT-4DIGIT-YOUNGSUN LONGPADS -->
  <version>4</version>
- <date>Sun Jan 14 2018</date>
+ <date>Mon Jan 15 2018</date>
  <label>LED</label>
  <author>ReDetection</author>
  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
@@ -23,40 +23,42 @@ p, li { white-space: pre-wrap; }
   <property name="package">THT-longpads</property>
   <property name="digits">2</property>
   <property name="segments">7</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
  </properties>
  <views>
   <breadboardView>
-   <layers image="breadboard/125-seven-segment_edd752848691e8bf069be053932fe577_11_breadboard.svg">
+   <layers image="breadboard/125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/125-seven-segment_edd752848691e8bf069be053932fe577_11_schematic.svg">
+   <layers image="schematic/125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/125-seven-segment_edd752848691e8bf069be053932fe577_11_pcb.svg">
+   <layers image="pcb/125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_pcb.svg">
     <layer layerId="copper1"/>
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
    </layers>
   </pcbView>
   <iconView>
-   <layers image="icon/125-seven-segment_edd752848691e8bf069be053932fe577_11_icon.svg">
+   <layers image="icon/125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
  </views>
  <connectors>
-  <connector name="B" type="male" id="connector9">
+  <connector id="connector9" type="male" name="B">
    <description>B</description>
    <views>
     <breadboardView>
      <p svgId="connector9pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector9pin" layer="schematic" terminalId="connector9terminal"/>
+     <p svgId="connector9pin" terminalId="connector9terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector9pad" layer="copper0"/>
@@ -64,14 +66,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="DIG1" type="male" id="connector8">
+  <connector id="connector8" type="male" name="DIG1">
    <description>Left digit</description>
    <views>
     <breadboardView>
      <p svgId="connector8pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector8pin" layer="schematic" terminalId="connector8terminal"/>
+     <p svgId="connector8pin" terminalId="connector8terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector8pad" layer="copper0"/>
@@ -79,14 +81,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="E" type="male" id="connector3">
+  <connector id="connector3" type="male" name="E">
    <description>E</description>
    <views>
     <breadboardView>
      <p svgId="connector3pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+     <p svgId="connector3pin" terminalId="connector3terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector3pad" layer="copper0"/>
@@ -94,14 +96,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="DP" type="male" id="connector2">
+  <connector id="connector2" type="male" name="DP">
    <description>Decimal Point</description>
    <views>
     <breadboardView>
      <p svgId="connector2pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector2pad" layer="copper0"/>
@@ -109,14 +111,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="A" type="male" id="connector0">
+  <connector id="connector0" type="male" name="A">
    <description>A</description>
    <views>
     <breadboardView>
      <p svgId="connector0pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector0pad" layer="copper0"/>
@@ -124,14 +126,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="C" type="male" id="connector1">
+  <connector id="connector1" type="male" name="C">
    <description>C</description>
    <views>
     <breadboardView>
      <p svgId="connector1pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector1pad" layer="copper0"/>
@@ -139,14 +141,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="G" type="male" id="connector5">
+  <connector id="connector5" type="male" name="G">
    <description>G</description>
    <views>
     <breadboardView>
      <p svgId="connector5pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector5pin" layer="schematic" terminalId="connector5terminal"/>
+     <p svgId="connector5pin" terminalId="connector5terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector5pad" layer="copper0"/>
@@ -154,14 +156,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="DIG2" type="male" id="connector7">
+  <connector id="connector7" type="male" name="DIG2">
    <description>Right digit</description>
    <views>
     <breadboardView>
      <p svgId="connector7pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector7pin" layer="schematic" terminalId="connector7terminal"/>
+     <p svgId="connector7pin" terminalId="connector7terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector7pad" layer="copper0"/>
@@ -169,14 +171,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="F" type="male" id="connector6">
+  <connector id="connector6" type="male" name="F">
    <description>F</description>
    <views>
     <breadboardView>
      <p svgId="connector6pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector6pin" layer="schematic" terminalId="connector6terminal"/>
+     <p svgId="connector6pin" terminalId="connector6terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector6pad" layer="copper0"/>
@@ -184,14 +186,14 @@ p, li { white-space: pre-wrap; }
     </pcbView>
    </views>
   </connector>
-  <connector name="D" type="male" id="connector4">
+  <connector id="connector4" type="male" name="D">
    <description>D</description>
    <views>
     <breadboardView>
      <p svgId="connector4pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
-     <p svgId="connector4pin" layer="schematic" terminalId="connector4terminal"/>
+     <p svgId="connector4pin" terminalId="connector4terminal" layer="schematic"/>
     </schematicView>
     <pcbView>
      <p svgId="connector4pad" layer="copper0"/>
