@@ -4,7 +4,16 @@ So far I only found 4-digit and 1-digit but the most common 7-segment display I 
 
 # Download
 
-Navigate to the releases section and download latest release fzpz file. Here is [the link](/releases/latest).
+Navigate to the releases section and download latest release fzpz file. Here is [the link](https://github.com/ReDetection/2digit-7segment/releases/latest).
+
+# Preview
+
+![Breadboard](svg.breadboard.125-seven-segment_edd752848691e8bf069be053932fe577_11_breadboard.svg) - Breadboard
+
+![Schematics](svg.schematic.125-seven-segment_edd752848691e8bf069be053932fe577_11_schematic.svg) - Schematics
+
+![PCB](svg.pcb.125-seven-segment_edd752848691e8bf069be053932fe577_11_pcb.svg) - PCB
+
 
 # Contributing
 
