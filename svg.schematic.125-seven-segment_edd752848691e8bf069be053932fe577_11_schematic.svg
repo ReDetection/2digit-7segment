@@ -1,0 +1,955 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 149"  height="149px" version="1.1" width="144px">
+    <desc >
+        <referenceFile >schematics.svg</referenceFile>
+    </desc>
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title >schematics</title>
+    <desc >Created with Sketch.</desc>
+    <defs />
+    <g fill-rule="evenodd"  stroke="none" stroke-width="1" gorn="0.4" fill="none" id="Page-1">
+        <g  gorn="0.4.0" id="Untitled-Sketch-4_schem">
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.0" d="M142.94875,19.375 L142.94875,147.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.1" d="M143.125,147.4375 L1.7,147.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.2" d="M1.7,147.4375 L1.7,18.125" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.3" d="M55.7,43.937625 L60.2,48.437625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.4" d="M60.2,48.437625 L55.7,52.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.5" d="M55.7,52.93775 L28.7,52.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.6" d="M28.7,52.93775 L24.2,48.437625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.7" d="M24.2,48.437625 L28.7,43.937625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.8" d="M28.7,43.937625 L55.7,43.937625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.9" d="M61.1,52.93775 L65.6,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.10" d="M61.1,52.93775 L56.6,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.11" d="M56.6,57.43775 L52.1,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.12" d="M52.1,84.43775 L56.6,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.13" d="M56.6,88.93775 L61.1,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.14" d="M61.1,84.43775 L65.6,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.15" d="M19.7,93.43775 L24.2,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.16" d="M19.7,93.43775 L24.2,97.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.17" d="M24.2,97.93775 L51.2,97.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.18" d="M51.2,97.93775 L55.7,93.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.19" d="M55.7,93.43775 L51.2,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.20" d="M51.2,88.93775 L24.2,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.21" d="M15.2,138.4375 L19.7,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.22" d="M15.2,138.4375 L19.7,142.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.23" d="M19.7,142.9375 L46.7,142.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.24" d="M46.7,142.9375 L51.2,138.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.25" d="M51.2,138.4375 L46.7,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.26" d="M46.7,133.9375 L19.7,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.27" d="M23.3,52.93775 L27.8,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.28" d="M23.3,52.93775 L18.8,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.29" d="M18.8,57.43775 L14.3,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.30" d="M14.3,84.43775 L18.8,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.31" d="M18.8,88.93775 L23.3,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.32" d="M23.3,84.43775 L27.8,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.33" d="M18.8,97.93775 L23.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.34" d="M18.8,97.93775 L14.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.35" d="M14.3,102.437875 L9.8,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.36" d="M9.8,129.4375 L14.3,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.37" d="M14.3,133.9375 L18.8,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.38" d="M18.8,129.4375 L23.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.39" d="M56.6,97.93775 L61.1,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.40" d="M56.6,97.93775 L52.1,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.41" d="M52.1,102.437875 L47.6,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.42" d="M47.6,129.4375 L52.1,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.43" d="M52.1,133.9375 L56.6,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.44" d="M56.6,129.4375 L61.1,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.45" d="M118.699875,43.937625 L123.199875,48.437625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.46" d="M123.199875,48.437625 L118.699875,52.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.47" d="M118.699875,52.93775 L91.699875,52.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.48" d="M91.699875,52.93775 L87.2,48.437625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.49" d="M87.2,48.437625 L91.699875,43.937625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.50" d="M91.699875,43.937625 L118.699875,43.937625" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.51" d="M124.099875,52.93775 L128.6,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.52" d="M124.099875,52.93775 L119.599875,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.53" d="M119.599875,57.43775 L115.099875,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.54" d="M115.099875,84.43775 L119.599875,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.55" d="M119.599875,88.93775 L124.099875,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.56" d="M124.099875,84.43775 L128.6,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.57" d="M82.7,93.43775 L87.2,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.58" d="M82.7,93.43775 L87.2,97.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.59" d="M87.2,97.93775 L114.199875,97.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.60" d="M114.199875,97.93775 L118.699875,93.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.61" d="M118.699875,93.43775 L114.199875,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.62" d="M114.199875,88.93775 L87.2,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.63" d="M78.2,138.4375 L82.7,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.64" d="M78.2,138.4375 L82.7,142.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.65" d="M82.7,142.9375 L109.699875,142.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.66" d="M109.699875,142.9375 L114.199875,138.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.67" d="M114.199875,138.4375 L109.699875,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.68" d="M109.699875,133.9375 L82.7,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.69" d="M86.3,52.93775 L90.799875,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.70" d="M86.3,52.93775 L81.8,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.71" d="M81.8,57.43775 L77.3,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.72" d="M77.3,84.43775 L81.8,88.93775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.73" d="M81.8,88.93775 L86.3,84.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.74" d="M86.3,84.43775 L90.799875,57.43775" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.75" d="M81.8,97.93775 L86.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.76" d="M81.8,97.93775 L77.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.77" d="M77.3,102.437875 L72.8,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.78" d="M72.8,129.4375 L77.3,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.79" d="M77.3,133.9375 L81.8,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.80" d="M81.8,129.4375 L86.3,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.81" d="M119.599875,97.93775 L124.099875,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.82" d="M119.599875,97.93775 L115.099875,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.83" d="M115.099875,102.437875 L110.599875,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.84" d="M110.599875,129.4375 L115.099875,133.9375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.85" d="M115.099875,133.9375 L119.599875,129.4375" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.86" d="M119.599875,129.4375 L124.099875,102.437875" stroke-linecap="round" id="Shape"/>
+            <path  stroke="#000000" stroke-width="1.12499875" gorn="0.4.0.87" d="M143.425,18.25 L2,18.25" stroke-linecap="round" id="Shape"/>
+            <circle  cx="64.7" stroke="#000000" cy="138.4375" stroke-width="1.12499875" gorn="0.4.0.88" r="4.5" id="Oval"/>
+            <circle  cx="127.7" stroke="#000000" cy="138.4375" stroke-width="1.12499875" gorn="0.4.0.89" r="4.5" id="Oval"/>
+            <g  transform="translate(41.300000, 45.236000)">
+                <g >
+                    <g  gorn="0.4.0.90.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.90.0.0.0" id="A">
+                            <g >
+                                <text y="5"  x="0">A</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(57.500000, 67.736125)">
+                <g >
+                    <g  gorn="0.4.0.91.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.91.0.0.0" id="B">
+                            <g >
+                                <text y="5"  x="0">B</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(52.999250, 112.737500)">
+                <g >
+                    <g  gorn="0.4.0.92.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.92.0.0.0" id="C">
+                            <g >
+                                <text y="5"  x="0">C</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(32.298625, 135.236250)">
+                <g >
+                    <g  gorn="0.4.0.93.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.93.0.0.0" id="D">
+                            <g >
+                                <text y="5"  x="0">D</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(15.200250, 112.737500)">
+                <g >
+                    <g  gorn="0.4.0.94.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.94.0.0.0" id="E">
+                            <g >
+                                <text y="5"  x="0">E</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(19.699750, 67.736125)">
+                <g >
+                    <g  gorn="0.4.0.95.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.95.0.0.0" id="F">
+                            <g >
+                                <text y="5"  x="0">F</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(36.798125, 90.236125)">
+                <g >
+                    <g  gorn="0.4.0.96.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.96.0.0.0" id="G">
+                            <g >
+                                <text y="5"  x="0">G</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(61.998250, 135.236250)">
+                <g >
+                    <g  gorn="0.4.0.97.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.97.0.0.0" id="DP">
+                            <g >
+                                <text y="5"  x="0">DP</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(104.298000, 45.236000)">
+                <g >
+                    <g  gorn="0.4.0.98.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.98.0.0.0" id="A">
+                            <g >
+                                <text y="5"  x="0">A</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(120.499125, 67.736125)">
+                <g >
+                    <g  gorn="0.4.0.99.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.99.0.0.0" id="B">
+                            <g >
+                                <text y="5"  x="0">B</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(116.000875, 112.737500)">
+                <g >
+                    <g  gorn="0.4.0.100.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.100.0.0.0" id="C">
+                            <g >
+                                <text y="5"  x="0">C</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(95.299000, 135.236250)">
+                <g >
+                    <g  gorn="0.4.0.101.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.101.0.0.0" id="D">
+                            <g >
+                                <text y="5"  x="0">D</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(78.200625, 112.737500)">
+                <g >
+                    <g  gorn="0.4.0.102.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.102.0.0.0" id="E">
+                            <g >
+                                <text y="5"  x="0">E</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(82.699000, 67.736125)">
+                <g >
+                    <g  gorn="0.4.0.103.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.103.0.0.0" id="F">
+                            <g >
+                                <text y="5"  x="0">F</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(99.798500, 90.236125)">
+                <g >
+                    <g  gorn="0.4.0.104.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.104.0.0.0" id="G">
+                            <g >
+                                <text y="5"  x="0">G</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(124.998625, 135.236250)">
+                <g >
+                    <g  gorn="0.4.0.105.0.0" fill="#505050" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.68">
+                        <g  gorn="0.4.0.105.0.0.0" id="DP">
+                            <g >
+                                <text y="5"  x="0">DP</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.106" d="M39,0 L39,17.9999987" stroke-linecap="round" id="connector7pin"/>
+            <g  transform="translate(33.395713, 7.079350)">
+                <g >
+                    <g  gorn="0.4.0.107.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.107.0.0.0" id="7">
+                            <g  transform="translate(2.500000, 2.250000) rotate(-90.000000) translate(-2.500000, -2.250000) translate(1.000000, -0.250000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.533625, 0.239875)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3"  x="0">7</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(33.167375, 18.680400)">
+                <g >
+                    <g  gorn="0.4.0.108.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.108.0.0.0" id="DIG2">
+                            <g  transform="translate(3.000000, 6.500000) rotate(-90.000000) translate(-3.000000, -6.500000) translate(-3.000000, 3.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(0.000000, 0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.301125, 0.407000)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(-0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4"  x="-1.77635684e-15">DIG2</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.109" d="M57.5,0.4375 L57.5,17.9543494" stroke-linecap="round" id="connector0pin"/>
+            <g  transform="translate(50.820750, 7.079350)">
+                <g >
+                    <g  gorn="0.4.0.110.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.110.0.0.0" id="10">
+                            <g  transform="translate(3.000000, 2.500000) rotate(-90.000000) translate(-3.000000, -2.500000) translate(0.500000, -0.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.921875, 0.566500)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435063"  x="0">10</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(51.592375, 19.930400)">
+                <g >
+                    <g  gorn="0.4.0.111.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.111.0.0.0" id="A">
+                            <g  transform="translate(3.500000, 2.000000) rotate(-90.000000) translate(-3.500000, -2.000000) translate(1.500000, -1.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.209375, 0.733500)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435063"  x="7.99360578e-15">A</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.112" d="M66.25,0.4375 L66.25,17.9543494" stroke-linecap="round" id="connector9pin"/>
+            <g  transform="translate(60.245750, 8.329350)">
+                <g >
+                    <g  gorn="0.4.0.113.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.113.0.0.0" id="9">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, 0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.921875, 0.141750)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435063"  x="0">9</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(61.017375, 19.930400)">
+                <g >
+                    <g  gorn="0.4.0.114.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.114.0.0.0" id="B">
+                            <g  transform="translate(3.500000, 2.000000) rotate(-90.000000) translate(-3.500000, -2.000000) translate(1.500000, -1.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.150750, 0.306375)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435063"  x="0">B</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.115" d="M75,0.4375 L75,17.9543494" stroke-linecap="round" id="connector1pin"/>
+            <g  transform="translate(68.420750, 8.329350)">
+                <g >
+                    <g  gorn="0.4.0.116.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.116.0.0.0" id="1">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, 0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.921875, 0.967000)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435063"  x="8.8817842e-16">1</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(70.192375, 18.930400)">
+                <g >
+                    <g  gorn="0.4.0.117.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.117.0.0.0" id="C">
+                            <g  transform="translate(3.500000, 2.500000) rotate(-90.000000) translate(-3.500000, -2.500000) translate(1.000000, -1.000000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.228875, 0.131625)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435062"  x="4.4408921e-16">C</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.118" d="M83.75,0.4375 L83.75,17.9543494" stroke-linecap="round" id="connector4pin"/>
+            <g  transform="translate(77.845750, 7.079350)">
+                <g >
+                    <g  gorn="0.4.0.119.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.119.0.0.0" id="4">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.533625, 0.542250)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435063"  x="2.22044605e-16">4</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(78.617375, 19.930400)">
+                <g >
+                    <g  gorn="0.4.0.120.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.120.0.0.0" id="D">
+                            <g  transform="translate(3.500000, 2.500000) rotate(-90.000000) translate(-3.500000, -2.500000) translate(1.000000, -1.000000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.874875, 0.706875)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435063"  x="-7.10542736e-15">D</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.121" d="M93.75,0.4375 L93.75,17.9543494" stroke-linecap="round" id="connector3pin"/>
+            <g  transform="translate(87.270750, 7.079350)">
+                <g >
+                    <g  gorn="0.4.0.122.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.122.0.0.0" id="3">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.533625, 0.115000)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435062"  x="-2.22044605e-16">3</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(88.042375, 19.680400)">
+                <g >
+                    <g  gorn="0.4.0.123.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.123.0.0.0" id="E">
+                            <g  transform="translate(3.500000, 2.000000) rotate(-90.000000) translate(-3.500000, -2.000000) translate(1.500000, -1.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.308500, 0.280875)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435062"  x="-7.10542736e-15">E</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.124" d="M102.5,0.4375 L102.5,17.9543494" stroke-linecap="round" id="connector6pin"/>
+            <g  transform="translate(95.445750, 8.329350)">
+                <g >
+                    <g  gorn="0.4.0.125.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.125.0.0.0" id="6">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.921875, 0.941625)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435062"  x="8.8817842e-16">6</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(97.217375, 19.680400)">
+                <g >
+                    <g  gorn="0.4.0.126.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.126.0.0.0" id="F">
+                            <g  transform="translate(3.500000, 2.000000) rotate(-90.000000) translate(-3.500000, -2.000000) translate(1.500000, -1.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.472125, 0.107500)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435062"  x="4.4408921e-16">F</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.127" d="M111.25,0.4375 L111.25,17.9543494" stroke-linecap="round" id="connector5pin"/>
+            <g  transform="translate(104.870750, 8.329350)">
+                <g >
+                    <g  gorn="0.4.0.128.0.0" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.128.0.0.0" id="5">
+                            <g  transform="translate(3.000000, 2.250000) rotate(-90.000000) translate(-3.000000, -2.250000) translate(1.500000, -0.750000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.921875, 0.515625)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3.20435062"  x="0">5</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(105.642375, 19.930400)">
+                <g >
+                    <g  gorn="0.4.0.129.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.129.0.0.0" id="G">
+                            <g  transform="translate(3.500000, 2.500000) rotate(-90.000000) translate(-3.500000, -2.500000) translate(1.000000, -1.000000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.850500, 0.682750)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435063"  x="0">G</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.130" d="M120,0.4375 L120,17.9543494" stroke-linecap="round" id="connector2pin"/>
+            <g  transform="translate(115.067375, 18.930400)">
+                <g >
+                    <g  gorn="0.4.0.131.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.131.0.0.0" id="DP">
+                            <g  transform="translate(3.500000, 4.500000) rotate(-90.000000) translate(-3.500000, -4.500000) translate(-0.500000, 1.000000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(-0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.855375, 0.255000)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4.20435063"  x="-8.8817842e-16">DP</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <path  stroke="#787878" stroke-width="0.93749875" gorn="0.4.0.132" d="M30,0 L30,17.9999987" stroke-linecap="round" id="connector8pin"/>
+            <g  transform="translate(23.970713, 7.079350)">
+                <g >
+                    <g  gorn="0.4.0.133.0.0" opacity="0.800000012" fill="#8C8C8C" font-weight="normal" id="Group" font-family="Droid Sans" font-size="3.125">
+                        <g  gorn="0.4.0.133.0.0.0" id="8">
+                            <g  transform="translate(2.500000, 2.250000) rotate(-90.000000) translate(-2.500000, -2.250000) translate(1.000000, -0.250000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(0.000000, -0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.533625, 0.665750)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(-0.000000, -0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="3"  x="-8.8817842e-16">8</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g  transform="translate(23.742413, 18.680400)">
+                <g >
+                    <g  gorn="0.4.0.134.0.0" fill="#787878" font-weight="normal" id="Group" font-family="Droid Sans" font-size="4.375">
+                        <g  gorn="0.4.0.134.0.0.0" id="DIG1">
+                            <g  transform="translate(3.000000, 6.500000) rotate(-90.000000) translate(-3.000000, -6.500000) translate(-3.000000, 3.500000)">
+                                <g >
+                                    <g >
+                                        <g  transform="translate(0.000000, 0.000000)">
+                                            <g >
+                                                <g >
+                                                    <g  transform="translate(0.301125, 0.831625)">
+                                                        <g >
+                                                            <g >
+                                                                <g  transform="translate(-0.000000, 0.000000)">
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <text y="4"  x="-1.77635684e-15">DIG1</text>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
