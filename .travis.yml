@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.6"
+
+before_script:
+  - cd tests/FritzingCheckPart
+  - pip install lxml
+  - chmod +x *.py
+
+script: ./FritzingCheckPart.py ../../*.fzp
