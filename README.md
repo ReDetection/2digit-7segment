@@ -1,4 +1,4 @@
-#  Two-digit 7-segment fritzing part
+#  Two-digit 7-segment fritzing part [![Build Status](https://travis-ci.org/ReDetection/2digit-7segment.svg?branch=master)](https://travis-ci.org/ReDetection/2digit-7segment)
 
 So far I only found 4-digit and 1-digit but the most common 7-segment display I can find around is 2-digit, and it has different layout so it's kinda hard to get correct PCB with this. I'm still not sure it is 100% correct, so contributions are welcome!
 
