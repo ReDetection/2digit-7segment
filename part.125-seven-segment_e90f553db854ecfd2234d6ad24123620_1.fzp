@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <module referenceFile="125-seven-segment_e90f553db854ecfd2234d6ad24123620_1.fzp" moduleId="125-seven-segment_e90f553db854ecfd2234d6ad24123620_1" fritzingVersion="0.9.3b">
-  <version>4</version>
+  <version>0.2.0</version>
   <date>Mon Jan 15 2018</date>
   <label>LED</label>
   <author>ReDetection</author>
