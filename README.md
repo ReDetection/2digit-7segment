@@ -8,11 +8,11 @@ Navigate to the releases section and download latest release fzpz file. Here is 
 
 # Preview
 
-![Breadboard](svg.breadboard.125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_breadboard.svg) - Breadboard
+![Breadboard](svg.breadboard.125-seven-segment_e90f553db854ecfd2234d6ad24123620_1_breadboard.svg) - Breadboard
 
-![Schematics](svg.schematic.125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_schematic.svg) - Schematics
+![Schematics](svg.schematic.125-seven-segment_e90f553db854ecfd2234d6ad24123620_1_schematic.svg) - Schematics
 
-![PCB](svg.pcb.125-seven-segment_60ac6a288b245897b2d6acdaaf1d3581_1_pcb.svg) - PCB
+![PCB](svg.pcb.125-seven-segment_e90f553db854ecfd2234d6ad24123620_1_pcb.svg) - PCB
 
 
 # Contributing
