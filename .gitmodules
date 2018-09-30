@@ -1,3 +1,3 @@
 [submodule "tests/FritzingCheckPart"]
 	path = tests/FritzingCheckPart
-	url = https://github.com/ReDetection/FritzingCheckPart.git
+	url = https://github.com/vanepp/FritzingCheckPart.git
